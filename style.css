@@ -1,0 +1,130 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #240c98;
+    color: white;
+}
+
+.style-header {
+    width: 100%;
+    height: 100%;
+}
+
+.info-download {
+    min-height: 300px;
+    width: 75%;
+    margin: 70px auto 25px;
+    text-align: center;
+}
+
+.style-title-info {
+    font-family: "Sigmar", sans-serif;
+    text-transform: uppercase;
+    font-size: 36px;
+    line-height: 1;
+
+}
+
+.style-text-info {
+    font-family: "DM Sans", sans-serif;
+    font-size: 103%;
+    padding: 15px 0px 15px;
+}
+
+.style-button-dowload {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    font-size: large;
+    width: 100%;
+    height: 45px;
+    margin-bottom: 15px;
+}
+
+.style-button {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    font-size: large;
+    width: 100%;
+    height: 45px;
+    margin-bottom: 15px;
+    background-color: #2065f1;
+    color: white;
+}
+
+.style-box {
+    margin: 50px auto 80px;
+    align-content: center;
+    width: 90%;
+    height: 700px;
+    position: relative;
+
+}
+
+.style-background {
+    height: 700px;
+    width: 100%;
+    border: 1px solid transparent;
+    border-radius: 40px;
+    position: relative;
+}
+
+.style-title-box {
+    font-family: "Sigmar", sans-serif;
+    text-transform: uppercase;
+    font-size: 36px;
+    line-height: 1;
+    padding-left: 30px;
+    width: 80%;
+
+}
+
+.style-text-box {
+    font-family: "DM Sans", sans-serif;
+    font-size: 105%;
+    padding: 15px 30px 10px;
+
+}
+
+.style-video {
+    width: 387px;
+    height: auto;
+    margin: 10px 30px;
+    border: 1px solid transparent;
+    border-radius: 40px;
+}
+
+.position-box {
+    position: absolute;
+    top: 0px;
+    margin: 70px 0px;
+    max-height: 700px;
+    width: 90%;
+}
+
+.position-box-2 {
+    position: absolute;
+    top: 0px;
+    margin: 70px 0px;
+    max-height: 700px;
+    width: 90%;
+}
+
+.style-cube {
+    position: absolute;
+    width: 20%;
+    top: -40px;
+    right: 310px;
+    z-index: 2;
+}
+
+.style-eyes {
+    position: absolute;
+    width: 20%;
+    top: -40px;
+    right: 310px;
+    z-index: 2;
+}
