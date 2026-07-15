@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #240c98;
+    background: linear-gradient(to bottom, #240c9b, #09022e);
+    /* background-color: #240c98; */
     color: white;
 }
 
